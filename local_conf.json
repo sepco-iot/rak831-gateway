@@ -1,0 +1,11 @@
+{
+	"gateway_conf": {
+		"gateway_ID": "B827EBFFFEFECDB8",
+		"servers": [ { "server_address": "localhost", "serv_port_up": 1700, "serv_port_down": 1700, "serv_enabled": true } ],
+		"ref_latitude": 35.72853283,
+		"ref_longitude": 51.43200000,
+		"ref_altitude": 4,
+		"contact_email": "mh.salari@sutech.ac.ir",
+		"description": "sep-rak831" 
+	}
+}
